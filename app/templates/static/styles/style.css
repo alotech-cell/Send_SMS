@@ -1,0 +1,12 @@
+/* Styles personnalisés si nécessaire */
+
+/* Exemple : un léger ombrage pour les résultats */
+.result {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Optionnel : pour personnaliser le bouton */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}

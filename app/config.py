@@ -1,0 +1,4 @@
+class Config:
+    CLIENT_ID = 'L5kpBs3akON5evi96WXgEvJKSeYVFKlo'
+    CLIENT_SECRET = '7QXcvnlyQZlPxeEEJ88CMUk2qHeMNFA6EovQBRA80d1k'
+    SENDER_ADDRESS = 'tel:+00'

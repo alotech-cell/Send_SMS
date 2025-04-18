@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>Envoi SMS</title></head>
+<body>
+  <h1>Envoyer un SMS</h1>
+  <form action="/send_sms" method="post">
+    <input type="text" name="to" placeholder="tel:+22177XXXXXXX" required><br><br>
+    <textarea name="message" placeholder="Ton message ici" required></textarea><br><br>
+    <button type="submit">Envoyer</button>
+  </form>
+</body>
+</html>
